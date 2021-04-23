@@ -17,3 +17,5 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - **`05-MediaPonderada.py`**
 - - Cria o script que lê duas notas, a primeira com peso 3.5 e a segunda com peso 7.5, e faz a média ponderada das notas.
     A saída exibe a média com cinco casas decimais.
+- **`06-AreaDoCirculo.py`**
+- - Adiciona o código do script que faz o cálculo da área do círculo, lendo o valor do raio e limitando a saída a um número com quatro casas decimais após a vírgula.
