@@ -14,3 +14,6 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Cria um código que lê dois números inteiros e exibe o resultado da soma de ambos.
 - **`04-ProdutoSimples.py`**
 - - Cria um código que gera o valor da multiplicação de um primeiro número por um segundo número
+- **`05-MediaPonderada.py`**
+- - Cria o script que lê duas notas, a primeira com peso 3.5 e a segunda com peso 7.5, e faz a média ponderada das notas.
+    A saída exibe a média com cinco casas decimais.
