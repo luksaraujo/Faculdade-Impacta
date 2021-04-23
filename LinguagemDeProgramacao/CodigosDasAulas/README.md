@@ -12,3 +12,5 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Código que exibe a mensagem "Hello World!" na tela.
 - **`03-Soma.py`**
 - - Cria um código que lê dois números inteiros e exibe o resultado da soma de ambos.
+- **`04-ProdutoSimples.py`**
+- - Cria um código que gera o valor da multiplicação de um primeiro número por um segundo número
