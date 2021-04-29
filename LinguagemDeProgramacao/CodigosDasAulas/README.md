@@ -31,3 +31,5 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Cria o código de um programa que calcula o salário do funcionário somado a 15% do que ele vendeu.
 - **`12-DistanciaEntreDoisPontos.py`**
 - - Cria o código que calcula a distância entre dois pontos.
+- **`13-ConcatenacaoDeVariaveisEStrings.py`**
+- - Adiciona o arquivo do código que concatena em uma string variáveis de diferentes tipos.
