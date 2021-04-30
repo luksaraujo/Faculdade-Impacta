@@ -33,3 +33,5 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Cria o código que calcula a distância entre dois pontos.
 - **`13-ConcatenacaoDeVariaveisEStrings.py`**
 - - Adiciona o arquivo do código que concatena em uma string variáveis de diferentes tipos.
+- **`14-VerificadorPPD.py`**
+- - Adiciona o arquivo que contém o código que valida se a pessoa pode ou não dirigir.
