@@ -35,3 +35,5 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Adiciona o arquivo do código que concatena em uma string variáveis de diferentes tipos.
 - **`14-VerificadorPPD.py`**
 - - Adiciona o arquivo que contém o código que valida se a pessoa pode ou não dirigir.
+- **`15-FuncaoSoma.py`**
+- - Adiciona o código de um arquivo que cria uma função que soma dois números.
