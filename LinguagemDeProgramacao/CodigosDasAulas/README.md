@@ -37,3 +37,13 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Adiciona o arquivo que contém o código que valida se a pessoa pode ou não dirigir.
 - **`15-FuncaoSoma.py`**
 - - Adiciona o código de um arquivo que cria uma função que soma dois números.
+- **`16-QtdeDePares.py`**
+- - Adiciona o código do arquivo que conta quantos números pares foram inseridos.
+- **`17-ExibeMes.py`**
+- - Adiciona o código do programa que lê um número inteiro informado pelo usuário e exibe o mês correspondente a este número em inglês.
+- **`18-VerificaSeSaoMultiplos.py`**
+- - Adiciona o arquivo de um programa que verifica se dois números são múltiplos um do outro.
+- **`19-VerificadorDeIntervalo.py`**
+- - Cria um programa que lê um número e diz em qual intervalo ele está inserido.
+- **`20-TipoDeAnimal.py`**
+- - Cria um código que lê três classificações de animais e exibe qual é o tipo de animal baseado nas entradas do usuário.
