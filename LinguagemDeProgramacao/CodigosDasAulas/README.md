@@ -47,3 +47,5 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Cria um programa que lê um número e diz em qual intervalo ele está inserido.
 - **`20-TipoDeAnimal.py`**
 - - Cria um código que lê três classificações de animais e exibe qual é o tipo de animal baseado nas entradas do usuário.
+- **`21-Media03.py`**
+- - Cria um programa que lê quatro notas de um determinado aluno e, caso a média seja insatisfatória, permite que o valor da prova substitutiva seja informado. Caso, com o valor da prova, o aluno esteja aprovado, o programa informa que ele foi aprovado. Caso não, que ele foi reprovado. Em ambos os casos a nota da prova substitutiva é informada.
