@@ -49,3 +49,7 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Cria um código que lê três classificações de animais e exibe qual é o tipo de animal baseado nas entradas do usuário.
 - **`21-Media03.py`**
 - - Cria um programa que lê quatro notas de um determinado aluno e, caso a média seja insatisfatória, permite que o valor da prova substitutiva seja informado. Caso, com o valor da prova, o aluno esteja aprovado, o programa informa que ele foi aprovado. Caso não, que ele foi reprovado. Em ambos os casos a nota da prova substitutiva é informada.
+- **`22-Compras_E_Credito.py`**
+- - Cria o código que define um crédito para o usuário e solicita o valor das compras feitas por ele. Quando o valor atinge o limite de crédito o software diz quanto restou de crédito, o valor total das compras e quantos itens foram comprados.
+- **`23-Leitor_De_Letras.py`**
+- - Lê quantas letras o usuário digitou e finaliza o programa quando a letra X é digitada.
