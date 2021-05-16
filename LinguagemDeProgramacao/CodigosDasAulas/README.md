@@ -53,3 +53,5 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Cria o código que define um crédito para o usuário e solicita o valor das compras feitas por ele. Quando o valor atinge o limite de crédito o software diz quanto restou de crédito, o valor total das compras e quantos itens foram comprados.
 - **`23-Leitor_De_Letras.py`**
 - - Lê quantas letras o usuário digitou e finaliza o programa quando a letra X é digitada.
+- **`24-Relogio.py`**
+- - Cria um código que desempenha a função de um relógio.
