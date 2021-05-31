@@ -63,3 +63,16 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Lê uma quantidade indeterminada de idades (até que um número negativo seja informado) e exibe a média das idades calculadas com 2 números decimais.
 - **`28-Fatorial_Simples.py`**
 - - Lê um número inteiro e exibe o seu fatorial
+- **`29-Maior_Valor_e_Posicao.py`**
+- - Lê 100 valores inteiros e exibe o maior valor lido e a sua posição no vetor.
+- **`30-Feedback.py`**
+- - Cria um programa responsável por assignar quem deve responder a cada feedback.
+- **`31-Identificador_de_Alunos_e_Cursos.py`**
+- - Lê a quantidade de alunos na sala e, nas linhas subsequêntes, o número de matrícula e a sigla do curso de cada aluno. A leitura do programa acaba com fim de arquivo.
+- **`32-Identificar_Numero_Primo.py`**
+- - Identifica se os números informados são primos ou não.
+- **`33-Numero_Perfeito.py`**
+- - Identifica se os números informados são perfeitos ou não.
+- **`34-Digitos_Diferentes.py`**
+- - Exibe a quantidade de números possíveis entre um número X e Y sem dígitos repetidos.
+- 
