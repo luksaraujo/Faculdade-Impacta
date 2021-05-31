@@ -55,3 +55,11 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Lê quantas letras o usuário digitou e finaliza o programa quando a letra X é digitada.
 - **`24-Relogio.py`**
 - - Cria um código que desempenha a função de um relógio.
+- **`25-Numeros_Impares.py`**
+- - Lê um número inteiro e mostra os números ímpares de 1 até o próprio número, inclusive ele se for o caso.
+- **`26-Soma_de_Impares_Consecutivos_I.py`**
+- - Lê dois números inteiros e exibe a soma dos números ímpares existentes entre os números informados.
+- **`27-Idades.py`**
+- - Lê uma quantidade indeterminada de idades (até que um número negativo seja informado) e exibe a média das idades calculadas com 2 números decimais.
+- **`28-Fatorial_Simples.py`**
+- - Lê um número inteiro e exibe o seu fatorial
