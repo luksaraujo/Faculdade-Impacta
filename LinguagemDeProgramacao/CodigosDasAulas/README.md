@@ -75,4 +75,17 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Identifica se os números informados são perfeitos ou não.
 - **`34-Digitos_Diferentes.py`**
 - - Exibe a quantidade de números possíveis entre um número X e Y sem dígitos repetidos.
-- 
+- **`35-Substituicao_Em_Vetor_I.py`**
+- - Lê dez números inteiros e os armazena em suas respectivas posições de inserção dentro de um vetor.
+- **`36-Preenchimento_De_Vetor_I.py`**
+- - Lê um valor, o armazena na primeira posição do vetor e adiciona o dobro dos valores seguintes nas posições seguintes do vetor.
+- **`37-Selecao_Em_Vetor_I.py`**
+- - Lê 100 números e os armazena num vetor. Ao final, o programa exibe todas as posições que contém números menores ou iguais à dez e suas respectivas posições.
+- **`38-Troca_Em_Vetor_I.py`**
+- - Lê vinte números inteiros e os armazena num vetor. Ao final, o programa inverte as posições dos números no vetor (do último para o primeiro e assim por diante).
+- **`39-Preenchimento_De_Vetor_II.py`**
+- - Preenche um vetor de mil posições.
+- **`40-Quadrado_De_Pares.py`**
+- - Lê um valor inteiro e exibe o quadrado de todos os números pares até o valor lido.
+- **`41-Pula_Sapo.py`**
+- - Cria o código do jogo pula sapo.
