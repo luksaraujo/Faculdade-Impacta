@@ -89,3 +89,7 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Lê um valor inteiro e exibe o quadrado de todos os números pares até o valor lido.
 - **`41-Pula_Sapo.py`**
 - - Cria o código do jogo pula sapo.
+- **`42-Somador_de_Itens_da_Matriz.py`**
+- - Soma todos os itens de uma matriz numérica.
+- **`43-Turma_na_Matriz.py`**
+- - Manipula matrizes para no final exibir a própria matriz e cálculos feitos em cima dos valores armazenados nela.
