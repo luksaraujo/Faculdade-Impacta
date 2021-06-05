@@ -93,3 +93,5 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Soma todos os itens de uma matriz numérica.
 - **`43-Turma_na_Matriz.py`**
 - - Manipula matrizes para no final exibir a própria matriz e cálculos feitos em cima dos valores armazenados nela.
+- **`44-Negativador_de_Matriz.py`**
+- - Inverte os sinais dos números da matriz.
