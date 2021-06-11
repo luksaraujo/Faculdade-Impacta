@@ -95,3 +95,15 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Manipula matrizes para no final exibir a própria matriz e cálculos feitos em cima dos valores armazenados nela.
 - **`44-Negativador_de_Matriz.py`**
 - - Inverte os sinais dos números da matriz.
+- **`45-Area_Direita.py`**
+- - Lê 'S' ou 'M', onde 'S' significa que o usuário quer fazer uma operação de soma dos valores da área direita de uma matriz 12x12 e 'M' significa que o usuário quer calcular a média dos valores do mesmo intervalo. Depois popula a matriz e faz o cálculo de acordo com a operação informada pelo usuário.
+- **`46-Coluna_Na_Matriz.py`**
+- - Lê um número inteiro que corresponde a uma das colunas de uma matriz 12x12, depois lê 'S' (soma) ou 'M' (média), popula a matriz e faz o cálculo correspondente à operação indicada pelo usuário na coluna da matriz informada pelo usuário.
+- **`47-Linha_Na_Matriz.py`**
+- - Lê um número inteiro que corresponde a uma das linhas de uma matriz 12x12, depois lê 'S' (soma) ou 'M' (média), popula a matriz e faz o cálculo correspondente à operação indicada pelo usuário na linha da matriz informada pelo usuário.
+- **`48-Acima_Da_Diagonal_Principal.py`**
+- - Lê 'S' ou 'M', onde 'S' significa que o usuário quer fazer uma operação de soma dos valores da área da diagonal de cima de uma matriz 12x12 e 'M' significa que o usuário quer calcular a média dos valores do mesmo intervalo. Depois popula a matriz e faz o cálculo de acordo com a operação informada pelo usuário.
+- **`49-Iu_Di_Oh.py`**
+- - Calcula o resultado de um jogo de cartas cujo as entradas equivalem às entradas do exercício 2542 do URI Online Judger.
+- **`50-Sudoku.py`**
+- - O programa monta uma matriz idêntica à de um jogo Sudoku e identifica se a matriz pode ser a resolução de um jogo Sudoku. Na primeira linha o programa lê a quantidade de matrizes sudoku que serão lidas.
