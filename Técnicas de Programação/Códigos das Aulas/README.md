@@ -7,4 +7,6 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 ## Descrição dos Códigos
 
 - **`CC2A_TP_EX01.py`**
-- - Programa que preenche uma lista com 5 elementos, calcula a soma dos elementos, imprime a soma dos elementos e todos os elementos da lista
+- - Programa que preenche uma lista com 5 elementos, calcula a soma dos elementos, imprime a soma dos elementos e todos os elementos da lista.
+- **`CC2A_TP_EX02.py`**
+- - Função que lê dois números e retorna o maior deles.
