@@ -10,3 +10,6 @@ Este repositório foi criado para armazenar os arquivos e projetos gerados duran
 - - **LIED** -> Site interativo com HTML5, CSS3 e Javascript do trabalho final da disciplina de Soft Skills da Faculdade Impacta. | Tecnologias utilizadas: HTML5, CSS3 e Javascript.
 - **Linguagem de Programação**
 - - **Códigos** -> Nesta pasta estão todos os códigos (Python) desenvolvidos durante as aulas da disciplina.
+- - **ACs** -> Nesta pasta estão todos os códigos (Python) desenvolvidos para a conclusão das Atividades Contínuas da disciplina.
+- **Técnicas de Programação**
+- - **Códigos das Aulas** -> Diretório que armazena todos os códigos desenvolvidos durante ou após as aulas da disciplina.
