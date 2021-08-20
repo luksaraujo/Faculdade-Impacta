@@ -18,3 +18,5 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Função que recebe uma lista e um inteiro como parâmetros e retorna -1 se o inteiro não existe na lista ou a posição dele na lista caso ele exista na lista.
 - **`CC2A_TP_01_EX06.py`**
 - - Função que recebe uma string e uma letra e retorna a quantidade de ocorrências da letra na string (sem usar a função count).
+- **`CC2A_TP_02_EX01.py`**
+- - Função que retorna a intersecção entre dois conjuntos com métodos da estrutura Set.
