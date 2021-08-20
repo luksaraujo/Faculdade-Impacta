@@ -20,3 +20,5 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Função que recebe uma string e uma letra e retorna a quantidade de ocorrências da letra na string (sem usar a função count).
 - **`CC2A_TP_02_EX01.py`**
 - - Função que retorna a intersecção entre dois conjuntos com métodos da estrutura Set.
+- **`CC2A_TP_02_EX02.py`**
+- - Função que retorna a intersecção entre dois conjuntos sem métodos da estrutura Set.
