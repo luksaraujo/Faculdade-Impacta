@@ -22,3 +22,7 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Função que retorna a intersecção entre dois conjuntos com métodos da estrutura Set.
 - **`CC2A_TP_02_EX02.py`**
 - - Função que retorna a intersecção entre dois conjuntos sem métodos da estrutura Set.
+- **`CC2A_TP_02_EX03.py`**
+- - Programa que une conjuntos com métodos da estrutura set.
+- **`CC2A_TP_02_EX04.py`**
+- - Programa que une conjuntos sem métodos da estrutura set, usando apenas listas.
