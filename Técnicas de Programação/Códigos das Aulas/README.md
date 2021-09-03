@@ -26,3 +26,5 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Programa que une conjuntos com métodos da estrutura set.
 - **`CC2A_TP_02_EX04.py`**
 - - Programa que une conjuntos sem métodos da estrutura set, usando apenas listas.
+- **`CC2A_TP_03_EX00.py`**
+- - Função que soma todos os itens de uma matriz quadrada.
