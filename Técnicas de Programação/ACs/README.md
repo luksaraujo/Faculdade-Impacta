@@ -1,4 +1,4 @@
-# Atividades Contínuas 👨📓
+# Atividades Contínuas 📓
 
 ## Descrição do Diretório
 
