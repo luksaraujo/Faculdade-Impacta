@@ -28,3 +28,17 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Programa que une conjuntos sem métodos da estrutura set, usando apenas listas.
 - **`CC2A_TP_03_EX00.py`**
 - - Função que soma todos os itens de uma matriz quadrada.
+- **`CC2A_TP_03_EX01.py`**
+- - Função que recebe como parâmetro uma matriz quadrada de inteiros e retorna a soma dos elementos de sua diagonal principal.
+- **`CC2A_TP_03_EX02.py`**
+- - Função que recebe como parâmetro uma matriz quadrada de inteiros e retorna a soma dos elementos de sua diagonal secundária.
+- **`CC2A_TP_03_EX03.py`**
+- - Função que recebe como parâmetro uma matriz quadrada de inteiros e um número N e retorna True se N existir na matriz e False se não existir.
+- **`CC2A_TP_03_EX04.py`**
+- - Função que recebe como parâmetro uma matriz quadrada de inteiros e um número N e retorna uma lista com todos os valores da matriz que são maiores que N.
+- **`CC2A_TP_03_EX05.py`**
+- - Função que recebe como parâmetro uma matriz quadrada de inteiros e um número N e retorna a soma de todos os valores que estão na matriz que são maiores que N.
+- **`CC2A_TP_03_DESAFIO.py`**
+- - Cria uma função que recebe como parâmetro uma matriz tridimensional de inteiros e um número N e retorna a soma de todos os valores pares que estão na matriz e que são maiores que N. Cria também um programa que preenche a matriz com números aleatórios e chama a função criada.
+- **`CC2A_TP_04_EX01.py`**
+- - Função em Python que recebe uma string e uma letra e retorna a quantidade de ocorrências da letra na string sem usar a função count.
