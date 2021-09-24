@@ -10,4 +10,4 @@ print("\nFunções e variáveis do módulo CMATH")
 print(dir(cmath), "\n")
 
 print("Todas as funções do módulo 'CMATH' existem no módulo 'MATH', exceto as seguintes:")
-print("infj, nanj, polar, rect")
+print("infj, nanj, polar, rect, phase")
