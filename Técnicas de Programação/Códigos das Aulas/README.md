@@ -71,3 +71,6 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 
 - **`TP_CC2A_06_EX01.py`**
 - - Usa a função `dir()` para listar as funções dos módulos `math` e `cmath` e diz quais são as funções que são iguais caso elas existam.
+
+- **`TP_CC2A_06_EX03_TESTES.py`**
+- - Elabora um função que recebe como parâmetro uma Matrix de inteiros 3 x 3 e retorna True se a soma dos elementos de sua diagonal principal for par ou retorna False a soma dos elementos de sua diagonal principal for impar.
