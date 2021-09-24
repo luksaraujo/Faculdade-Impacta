@@ -60,5 +60,14 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - **`CC2A_TP_04_EX01.py`**
 - - Função em Python que recebe uma string e uma letra e retorna a quantidade de ocorrências da letra na string sem usar a função count.
 
+- **`CC2A_TP_04_EX02.py`**
+- - Cria uma função em Python que recebe uma string e uma letra e retorna uma lista com as posições onde a letra é encontrada na string. Não usar a função count, index.
+
+- **`CC2A_TP_04_EX04.py`**
+- - Cria um função que recebe por parâmetro uma matriz quadrada e retorna o maior valor encontrado nessa matriz. Função documentada como visto em aula.
+
+- **`CC2A_TP_04_EX05.py`**
+- - Função que retorna o maior valor encontrado nessa matriz e uma lista com as posições onde ele é encontrado. A lista de posições é composta de tuplas com a linha e a coluna onde o maior valor é encontrado. Função documentada como visto em aula.
+
 - **`TP_CC2A_06_EX01.py`**
 - - Usa a função `dir()` para listar as funções dos módulos `math` e `cmath` e diz quais são as funções que são iguais caso elas existam.
