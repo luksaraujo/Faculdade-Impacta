@@ -11,3 +11,5 @@ Este diretório armazena os diretórios dos respectivos temas e arquivos desenvo
 - - Este diretório contém os códigos desenvolvidos para as Atividades Contínuas da disciplina.
 - **`Codigos das Aulas`**
 - - Este diretório contém os códigos que foram desenvolvidos durantes as aulas da disciplina.
+- **`Exercícios do URI`**
+- - Este diretório contém os códigos desenvolvidos para a conclusão dos exercícios da disciplina na plataforma URI.
