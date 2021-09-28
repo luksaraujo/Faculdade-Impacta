@@ -21,4 +21,4 @@ chaves = lista.keys()
 chaves = sorted(chaves)
 
 for k in chaves:
-    print("%d aparece %d vez(es)" %(k,lista[k]))
+    print(f"{k} aparece {lista[k]} vez(es)")
