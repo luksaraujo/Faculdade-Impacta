@@ -12,3 +12,5 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Programa que recebe um número, uma letra e outro número na mesma linha sem separação. De acordo com a letra e com os números, um resultado diferente é exibido.
 - **`3_LED.py`**
 - - Programa que recebe um número inteiro que representa a quantidade de casos de teste e, em seguida, um número. O programa diz quantos leds são necessários para criar o número de acordo com o padrão digital de exibição de números.
+- **`4_Frequencia_de_Numeros.py`**
+- - Lê a quantidade de valores que serão inseridos na sequência e, após lê-los, diz quantas vezes cada valor foi digitado.
