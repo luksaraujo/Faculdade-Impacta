@@ -12,24 +12,16 @@
 def qtt_leds(number):
     if number == "1":
         return 2
-    elif number == "2":
-        return 5
-    elif number == "3":
+    elif number == "2" or number == "3" or number == "5":
         return 5
     elif number == "4":
         return 4
-    elif number == "5":
-        return 5
-    elif number == "6":
+    elif number == "6" or number == "9" or number == "0":
         return 6
     elif number == "7":
         return 3
     elif number == "8":
         return 7
-    elif number == "9":
-        return 6
-    else:
-        return 6
 
 qtt_tests = int(input())
 for i in range(qtt_tests):
