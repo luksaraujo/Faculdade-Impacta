@@ -16,3 +16,5 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - - Lê a quantidade de valores que serão inseridos na sequência e, após lê-los, diz quantas vezes cada valor foi digitado.
 - **`5_Combinador.py`**
 - - Programa que recebe duas strings e as combina, alternando as letras de cada string começando com a primeira letra da primeira string, seguido pela primeira letra da segunda string, em seguida pela segunda letra da primeira string, e assim sucessivamente. As letras restantes da cadeia mais longa são adicionadas ao fim da string resultante.
+- **`6_Pares_e_Impares.py`**
+- - Programa que lê quantos números serão inseridos e depois lê a lista de números com a quantidade informada no primeiro valor informado. O programa retorna cada item de uma lista composta pelos números informados, sendo primeiro os números pares em ordem crescente e, a seguir, os números ímpares em ordem decrescente.
