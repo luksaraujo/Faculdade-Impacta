@@ -77,3 +77,6 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 
 - **`CC2A_TP_08_EX_08.py`**
 - - Função recursiva que imprime os dígitos de um número do último ao primeiro.
+
+- **`CC2A_TP_09_EX01.py`**
+- - Programa que exibe o nome do sistema operacional, a pasta atual e seus respectivos arquivos.
