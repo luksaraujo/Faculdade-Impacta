@@ -39,6 +39,9 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - **`CC2A_TP_02_EX08.py`**
 - - Programa que contem uma função que intercala duas listas.
 
+- **`CC2A_TP_02_EX09.py`**
+- - Programa com uma função que rearranja os elementos de uma lista de tal forma que todos os elementos menores ou iguais ao primeiro elemento da lista ficam à esquerda e os demais à direita.
+
 - **`CC2A_TP_03_EX00.py`**
 - - Função que soma todos os itens de uma matriz quadrada.
 
