@@ -81,6 +81,9 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 - **`TP_CC2A_06_EX03_TESTES.py`**
 - - Elabora um função que recebe como parâmetro uma Matrix de inteiros 3 x 3 e retorna True se a soma dos elementos de sua diagonal principal for par ou retorna False a soma dos elementos de sua diagonal principal for impar.
 
+- **`CC2A_TP_07_EX06.py`**
+- - Função recursiva que calcula a soma dos números de 1 a N.
+
 - **`CC2A_TP_08_EX_08.py`**
 - - Função recursiva que imprime os dígitos de um número do último ao primeiro.
 
