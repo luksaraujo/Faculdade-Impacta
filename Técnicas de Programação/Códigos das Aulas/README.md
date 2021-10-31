@@ -89,3 +89,6 @@ Este diretório armazena todos os códigos que foram desenvolvidos na linguagem 
 
 - **`CC2A_TP_09_EX01.py`**
 - - Programa que exibe o nome do sistema operacional, a pasta atual e seus respectivos arquivos.
+
+- **`CC2A_TP_11_EX01.py`**
+- - Programa que contém uma função que recebe uma lista como parâmetro e retorna True se ela estiver ordenada e False caso não esteja ordenada.
