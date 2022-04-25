@@ -1,4 +1,4 @@
-# Linguagem de Programação 👨🏻‍🎓
+# Algoritmos e Estruturas de Dados 👨🏻‍🎓
 
 ## Descrição do Diretório
 
