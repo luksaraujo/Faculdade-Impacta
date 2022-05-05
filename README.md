@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="Impacta Logo" height="80" title="Azure Logo" src=".github/impacta-logo.png">
+</h1>
+
 # Graduação de Ciência da Computação🎓
 
 ## Descrição do Repositório
