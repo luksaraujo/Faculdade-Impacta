@@ -2,11 +2,9 @@
     <img alt="Impacta Logo" height="80" title="Azure Logo" src=".github/impacta-logo.png">
 </h1>
 
-# Graduação de Ciência da Computação🎓
+## 📁 Descrição do Repositório
 
-## Descrição do Repositório
-
-Este repositório foi criado para armazenar os arquivos e projetos gerados durante o meu curso de graduação em Ciência da Computação na Faculdade Impacta.
+Este repositório destina-se ao armazenamento dos arquivos de códigos e projetos criados durante o meu curso de graduação em Ciência da Computação na Faculdade Impacta.
 
 ## Matérias e Guia dos Diretórios
 
