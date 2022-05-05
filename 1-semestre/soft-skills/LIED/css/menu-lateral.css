@@ -1,0 +1,124 @@
+div.navbar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 77px;
+  background-color: #394ae2;
+}
+
+div#navbar {
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+div#navbar.fade {
+  opacity: 0;
+}
+
+/*div.removenavbar {
+    display: none;
+  }*/
+
+div.navbar img {
+  width: 60px;
+  height: 60px;
+  border: 2px solid #c4c4c4;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+#menu {
+  z-index: 2;
+}
+
+#menu-bar {
+  width: 45px;
+  height: 40px;
+  margin: 30px 0 20px 20px;
+  cursor: pointer;
+}
+
+.bar {
+  height: 5px;
+  width: 100%;
+  background-color: #ffffff;
+  display: block;
+  border-radius: 5px;
+  transition: 0.2s ease;
+}
+
+#bar1 {
+  transform: translateY(-4px);
+}
+
+#bar3 {
+  transform: translateY(4px);
+}
+
+.nav {
+  transition: 0.3s ease;
+  display: none;
+}
+
+.nav ul {
+  padding: 0 22px;
+}
+
+.nav li {
+  width: 200px;
+  list-style: none;
+  padding: 8px 0;
+}
+
+.nav li a {
+  font-family: "Nunito", sans-serif;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.nav li a:hover {
+  font-weight: bold;
+}
+
+.menu-bg,
+#menu {
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+.menu-bg {
+  z-index: 1;
+  width: 0;
+  height: 0;
+  margin: 30px 0 20px 20px;
+  background-color: #394ae2;
+  transition: 0.5s ease;
+}
+
+.change {
+  display: block;
+}
+
+.change .bar {
+  background-color: white;
+}
+
+.change #bar1 {
+  transform: translateY(4px) rotateZ(-45deg);
+}
+
+.change #bar2 {
+  opacity: 0;
+}
+
+.change #bar3 {
+  transform: translateY(-6px) rotateZ(45deg);
+}
+
+.change-bg {
+  width: 520px;
+  height: 270vh;
+  transform: translate(-60%, -30%);
+}
