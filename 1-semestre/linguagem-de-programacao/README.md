@@ -6,7 +6,7 @@
 
 Este repositório armazena os diretórios e os arquivos desenvolvidos durante a disciplina de Linguagem de Programação.
 
-## Descrição dos Diretórios
+## 🗂 Descrição dos Diretórios
 
 - **`ACs`**
   - Este diretório contém os códigos desenvolvidos para as Atividades Contínuas da disciplina.
