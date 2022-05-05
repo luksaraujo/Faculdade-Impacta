@@ -6,6 +6,14 @@
 
 Este repositório destina-se ao armazenamento dos arquivos de códigos e projetos criados durante o meu curso de graduação em Ciência da Computação na Faculdade Impacta.
 
+## ✨ Tecnologias
+
+<a href="#"><img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=e92e30"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=f16428"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=3799d6"/></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7e118"/></a>
+
 ## 📁 Estrutura de Pastas
 
 ```
