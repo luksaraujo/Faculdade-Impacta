@@ -6,7 +6,7 @@
 
 Este repositório armazena os diretórios e os arquivos desenvolvidos durante a disciplina de Soft Skills.
 
-## 📝 Descrição dos Diretórios
+## 🗂 Descrição dos Diretórios
 
 - **`LIED`**
   - Este diretório contém os códigos e arquivos desenvolvidos para a apresentação do trabalho final da disciplina.
