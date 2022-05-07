@@ -13,6 +13,7 @@ Este repositório destina-se ao armazenamento dos arquivos de códigos e projeto
 ## 📁 Estrutura de Pastas
 
 ```
+📁
 ├─ README.md
 └─ algoritmos-e-estruturas-de-dados
    ├─ README.md
