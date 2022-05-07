@@ -191,13 +191,6 @@ Este repositório destina-se ao armazenamento dos arquivos de códigos e projeto
 └─ 3-semestre
 ```
 
-
-## Matérias e Guia dos Diretórios
-
-- **Técnicas de Programação**
-  - **Códigos das Aulas** -> Diretório que armazena todos os códigos desenvolvidos durante ou após as aulas da disciplina.
-  - **ACs** -> Nesta pasta estão todos os códigos (Python) desenvolvidos para a conclusão das Atividades Contínuas da disciplina.
-
 <div align="center">
   <p>Made with ❤ by Lucas Araújo</p>
 </div>
