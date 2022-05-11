@@ -8,6 +8,7 @@ Este repositório destina-se ao armazenamento dos arquivos de códigos e projeto
 
 ## 👨‍🏫 Disciplinas
 
+- Análise e Projeto de Algorítmos
 - Algoritmos e Estruturas de Dados
 
 ## 📁 Estrutura de Pastas
@@ -15,6 +16,11 @@ Este repositório destina-se ao armazenamento dos arquivos de códigos e projeto
 ```
 📁
 ├─ README.md
+├─ analise-e-projeto-de-algoritmos
+|  ├─ README.md
+|  └─ ac-03
+|     ├─ README.md
+|     └─ caixeiro_viajante.py
 └─ algoritmos-e-estruturas-de-dados
    ├─ README.md
    ├─ fila

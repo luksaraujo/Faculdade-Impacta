@@ -190,6 +190,11 @@ Este repositório destina-se ao armazenamento dos arquivos de códigos e projeto
 |        └─ README.md
 └─ 3-semestre
    ├─ README.md
+   ├─ analise-e-projeto-de-algoritmos
+   |  ├─ README.md
+   |  └─ ac-03
+   |     ├─ README.md
+   |     └─ caixeiro_viajante.py
    └─ algoritmos-e-estruturas-de-dados
       ├─ README.md
       ├─ fila
